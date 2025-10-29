@@ -33,7 +33,7 @@ git tag v0.1
 git push origin v0.1
 ```
 
-After a draft release is created, make your final changes from the release page and publish it.
+After a draft release is created, make your final changes from the release page and publish it it.
 
 ### Install
 To install the latest version of your blockchain node's binary, execute the following command on your machine:
